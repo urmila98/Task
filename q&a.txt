@@ -1,0 +1,24 @@
+Question 1: What frontend technologies and frameworks have you worked on?
+
+I have 2.5 years of experience as a UI Frontend Developer, and I have worked with HTML, CSS, JS, Wordpress, PS, Figma. With that I have worked on Ionic frontend mobile app development with angular, And currently learning ReactJS 
+
+Question 2: Have you ever worked with Shopify or any other e-commerce platforms, or do you have any experience with them?
+
+I Know about Shopify but not worked on it but i have working wxperience with Woo-Commerce on wordpress where i have got much to learn about e-com platforms  
+
+Question 3: On a scale of 1 to 10, how would you rate your proficiency in HTML, CSS, and JavaScript?
+
+I would rate myself 8 out of 10
+
+Question 4: Do you find any specific browser more challenging to work with than others, and how do you resolve browser compatibility issues?
+
+Yes in my experience only the Internet Explorer is challanging to work or to make website responsive, i use some css hacks to resolve issues in it and learning continues :)
+
+
+Question 5: Have you worked on projects where you had complete ownership of the project?
+
+Yes In my short freelancing experience i have worked on many tour and travels websites where i have worked from start to end
+
+Question 6: Have you worked with any version control system like Git?
+
+Only the github I know so far but learning many others like devops, bitbucket etc
